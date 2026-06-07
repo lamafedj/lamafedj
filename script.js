@@ -23,7 +23,9 @@ const videoFiles = [
 
 // Populate gallery images dynamically
 for (let i = 1; i <= 50; i++) {
-    galleryImages.push(`image${i}.png`);
+    if (i !== 6) {  // Skip image6.png
+        galleryImages.push(`image${i}.png`);
+    }
 }
 
 // Shows data (user-provided venues)
