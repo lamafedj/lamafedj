@@ -276,9 +276,9 @@ p, li, .about-description p, .contact-details .contact-value { color: #F1ECFF; t
   --neon-blue: #9AE6FF;
   
   /* Font Variables */
-  --font-fredoka: 'Fredoka', sans-serif;
-  --font-bungee-shade: 'Bungee Shade', cursive;
-  --font-coiny: 'Coiny', cursive;
+  --font-fredoka: 'Montserrat', sans-serif;
+  --font-bungee-shade: 'Montserrat', sans-serif;
+  --font-coiny: 'Montserrat', sans-serif;
 }
 
 /* Reset and Base Styles */
