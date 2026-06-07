@@ -47,7 +47,8 @@ const shows = [
   { name: 'Caribbean Social Club (Toñita’s)', location: 'Brooklyn' },
   { name: 'Café Flor', location: 'Manhattan' },
   { name: 'Republic', location: 'Brooklyn' },
-  { name: 'SiriusXM', location: '' }
+  { name: 'SiriusXM', location: '' },
+  { name: 'Canvas', location: 'SoHo' }
 ];
 
 // Floating elements data
